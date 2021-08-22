@@ -6,8 +6,9 @@
 
 🖥️ Atualmente trabalhando como QA na everis
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical">
+  <a href="github.com/leticiancalvess">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiancalvess&show_icons=true&theme=radical">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiancalvess&layout=compact&theme=radical">
 </div>
 
 <div style="display: inline_block"><br>
