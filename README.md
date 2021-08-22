@@ -1,4 +1,10 @@
 # Olá! Bem-vindo ao meu GitHub
+
+👩 23 anos, Araguari - Minas Gerais 
+
+📚 Estudante de Análise e Desenvolvimento de Sistemas 
+
+🖥️ Atualmente trabalhando como QA na everis
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical">
