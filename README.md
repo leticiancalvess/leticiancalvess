@@ -4,7 +4,7 @@
 
 📚 Estudante de Análise e Desenvolvimento de Sistemas 
 
-🖥️ Atualmente trabalhando como QA na everis
+🖥️ Atualmente trabalhando como QA na NTT DATA Brasil
 <div>
   <a href="github.com/leticiancalvess">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiancalvess&show_icons=true&theme=radical">
