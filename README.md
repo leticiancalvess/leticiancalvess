@@ -1,10 +1,11 @@
-# Olá! Bem-vindo ao meu GitHub
+# Hello! Welcome to my GitHub
 
-👩 23 anos, Araguari - Minas Gerais 
+👩 23 years old, Araguari - Minas Gerais 
 
-📚 Estudante de Análise e Desenvolvimento de Sistemas 
+📚 Systems Analysis and Development  
 
-🖥️ Atualmente trabalhando como QA na NTT DATA Brasil
+🖥️ Currently working as a test analyst (QA) at NTT DATA Brasil
+
 <div>
   <a href="github.com/leticiancalvess">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiancalvess&show_icons=true&theme=radical">
