@@ -1,10 +1,8 @@
 # Hello! Welcome to my GitHub
 
-👩 26 years old, Araguari - Minas Gerais 
+👩 27 years old, Araguari - Minas Gerais 
 
-📚 Systems Analysis and Development  
-
-🖥️ Currently working as a Quality Assurance Engineer  at NTConsult
+🖥️ Currently working as a Senior Quality Assurance Engineer  at NTConsult
 <div>
   <a href="github.com/leticiancalvess">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiancalvess&show_icons=true&theme=radical">
